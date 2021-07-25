@@ -4,13 +4,13 @@ https://fullstackopen.com/en/part1
 
 ## Content
 
-1a Introduction to React
-1b Javascript
-1c Component State, Event Handlers
-1d More Complex State, Debugging React Apps
+1a Introduction to React     
+1b Javascript       
+1c Component State, Event Handlers      
+1d More Complex State, Debugging React Apps      
 
 ## Completed Exercises
 
-Course Info
-UniCafe
-Anecdotes
+Courseinfo    
+Unicafe      
+anecdotes      
