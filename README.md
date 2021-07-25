@@ -5,7 +5,7 @@ The course covers testing, configuration and environment management, and the use
 
 This course is offered by the Department of Computer Science at the University of Helsinki.
 
-Part 0 - Fundamentals of Web apps
+Part 0 - Fundamentals of Web apps \n
 Part 1 - Introduction to React
 Part 2 - Communicating with server
 Part 3 - Programming a server with NodeJS and Express
